@@ -1,0 +1,72 @@
+2024-10-09 12:27:24 - Array
+(
+    [token] => txXDrIe4PRrZ8YWcSW4R1KrN
+    [team_id] => T12GRE0KF
+    [api_app_id] => A07R2EPAZ8S
+    [event] => Array
+        (
+            [user] => U027BKSPVUY
+            [type] => app_mention
+            [ts] => 1728469643.658589
+            [client_msg_id] => eb7f1e63-eb3a-4460-a963-e4148b66a1a3
+            [text] => <@U07RR8YPU7J> cześć
+            [team] => T12GRE0KF
+            [blocks] => Array
+                (
+                    [0] => Array
+                        (
+                            [type] => rich_text
+                            [block_id] => frFlK
+                            [elements] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [type] => rich_text_section
+                                            [elements] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [type] => user
+                                                            [user_id] => U07RR8YPU7J
+                                                        )
+
+                                                    [1] => Array
+                                                        (
+                                                            [type] => text
+                                                            [text] =>  cześć
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [channel] => C07QW64AY2J
+            [event_ts] => 1728469643.658589
+        )
+
+    [type] => event_callback
+    [event_id] => Ev07R2MZMG11
+    [event_time] => 1728469643
+    [authorizations] => Array
+        (
+            [0] => Array
+                (
+                    [enterprise_id] => 
+                    [team_id] => T12GRE0KF
+                    [user_id] => U07RR8YPU7J
+                    [is_bot] => 1
+                    [is_enterprise_install] => 
+                )
+
+        )
+
+    [is_ext_shared_channel] => 
+    [event_context] => 4-eyJldCI6ImFwcF9tZW50aW9uIiwidGlkIjoiVDEyR1JFMEtGIiwiYWlkIjoiQTA3UjJFUEFaOFMiLCJjaWQiOiJDMDdRVzY0QVkySiJ9
+)
+
